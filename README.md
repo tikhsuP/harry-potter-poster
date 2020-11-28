@@ -1,7 +1,7 @@
 # Augmented Reality: Moving Images in the Harry Potter movie series
 
 Remember the Harry Potter movies?
-Remember the way printed images are shown moving in the movie? 
+Remember the way printed images move in the movie? 
 Ofcourse, in the movie, it is done using white magic but we can achieve similar results in real life using Augmented Reality.
 
 In this project, I have built an AR app with Unity & Vuforia which brings the image to life, just like the images/newspapers/banners/posters in the Harry Potter movie series.
