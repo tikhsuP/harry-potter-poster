@@ -7,6 +7,8 @@ Ofcourse, in the movie, it is done using white magic but we can achieve similar 
 In this project, I have built an AR app with Unity & Vuforia which brings the image to life, just like the images/newspapers/banners/posters in the Harry Potter movie series.
 You will be able to see the images move when you scan the target image with your phone.
 
+// ## Why this project?
+// ## Wanna see how it looks? 
 ### Sounds cool, right?
 
 ## Briefly, here is how you can try it out:
