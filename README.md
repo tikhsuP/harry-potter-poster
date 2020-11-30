@@ -16,8 +16,10 @@ You will be able to see the images move when you scan the target image with your
 <!-- </p> -->
 
 
-/* ## Why this project? */
-/* ## Wanna see how it looks? */ 
+<!-- ## Why this project? -->
+
+<!-- ## Wanna see how it looks? --> 
+
 ### Sounds cool, right?
 
 ## Briefly, here is how you can try it out:
